@@ -8,7 +8,7 @@
       "location": "Meow Town",
       "date": "January 28, 2024",
       "time": "12:00",
-      "organizer": "Kat Laydee",
+      "organizer": "Kat Laydee"
     },
     {
       "id": 4582797,
@@ -18,7 +18,7 @@
       "location": "Flora City",
       "date": "March 14, 2024",
       "time": "10:00",
-      "organizer": "Fern Pollin",
+      "organizer": "Fern Pollin"
     },
     {
       "id": 8419988,
@@ -28,7 +28,7 @@
       "location": "Meow Town",
       "date": "July 22, 2024",
       "time": "11:00",
-      "organizer": "Carey Wales",
+      "organizer": "Carey Wales"
     }
   ]
 }
